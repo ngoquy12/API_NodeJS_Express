@@ -1,0 +1,5 @@
+200: Thành công(Lấy dữ liệu, xóa, cập nhật)
+201: Thêm mới dữ liệu thành công
+400: Bab request(Dữ liệu nhập vào từ người dùng không hợp lệ)
+404: NOT FOUND
+500: Lỗi liên quan đến server( cú pháp, lỗi kết nối database)
